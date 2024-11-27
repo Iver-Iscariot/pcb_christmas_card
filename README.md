@@ -2,13 +2,15 @@
 PCB christmas card designed in kicad 7. 
 Uses CMOS 555 chips to flash LED's.
 
+## PCB-image
 You can get a 4 tone image on your pcb at no additional cost. I have included a photoshop file where you can use thresholds to adjust the look. 
 From light to dark, the four tones avaliable are: 
-	* Silkscreen; 
-	* copper without soldermask (Silver if you order HASL, gold with ENIG); 
-	* copper with solder mask (whatever color you choose); 
-	* soldermask with no copper
-Steps
+* Silkscreen; 
+* copper without soldermask (Silver if you order HASL, gold with ENIG); 
+* copper with solder mask (whatever color you choose); 
+* soldermask with no copper
+  
+### Steps:
 * Input your image in the three folders 
 * Adjust thresholds
 * Turn of the color-layers visibility, and make only one layer visible at the time
