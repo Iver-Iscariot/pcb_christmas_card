@@ -1,6 +1,8 @@
 # PCB christmas-card
 PCB christmas card designed in kicad 7. 
 Uses CMOS 555 chips to flash LED's.
+![image](https://github.com/user-attachments/assets/36570b40-17ef-4b47-9cd3-8b5fd39f130a)
+
 
 ## PCB-image
 You can get a 4 tone image on your pcb at no additional cost. I have included a photoshop file where you can use thresholds to adjust the look. 
